@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Inventory>
+    <CAR>
+        <colour>black</colour>
+        <company>mercedes</company>
+        <doors>4</doors>
+        <drive>two</drive>
+        <enginesize>4</enginesize>
+        <fuelType>dizel</fuelType>
+        <interiorColour>red</interiorColour>
+        <mileage>32458</mileage>
+        <model>s500</model>
+        <price>98093</price>
+        <problems>no</problems>
+        <status>used</status>
+        <style>sedan</style>
+        <year>2021</year>
+    </CAR>
+</Inventory>
